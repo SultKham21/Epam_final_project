@@ -31,6 +31,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../EPAM спиздил/epam-online-pharmacy-master" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -42,6 +43,8 @@
       <updated>1629375454749</updated>
       <workItem from="1629375464802" duration="6012000" />
       <workItem from="1629452775457" duration="5001000" />
+      <workItem from="1630564962788" duration="1883000" />
+      <workItem from="1630840270280" duration="600000" />
     </task>
     <servers />
   </component>
