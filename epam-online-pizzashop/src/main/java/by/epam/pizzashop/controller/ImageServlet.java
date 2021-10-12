@@ -28,7 +28,7 @@ import java.util.Properties;
  * The type Image servlet.
  */
 @WebServlet(urlPatterns = "/addImage")
-@MultipartConfig(location = "D:/Intelij Ultimate Project/WEBProjectEpam/EPAMFinal/epam-online-pizzashop/pictures/", fileSizeThreshold = 1024 * 1024,
+@MultipartConfig(location = "D:/picturesProj/", fileSizeThreshold = 1024 * 1024,
         maxFileSize = 1024 * 1024 * 5,
         maxRequestSize = 1024 * 1024 * 25)
 public class ImageServlet extends HttpServlet {
