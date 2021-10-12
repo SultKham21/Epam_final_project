@@ -1,0 +1,117 @@
+body {
+    background: url("../img/fon.jpeg") no-repeat center center fixed;
+    background-size: cover;
+    font-weight: bold;
+}
+
+A {
+    color: #000080;
+    text-decoration: none;
+}
+
+h1 {
+    text-align: center;
+    color: #822222;
+}
+
+h2 {
+    text-align: left;
+}
+
+h3 {
+    text-align: center;
+    color: #800000;
+}
+
+.input_instruction {
+    width: 1000px;
+    height: 500px;
+}
+
+.product {
+    color: #800000;
+}
+
+table {
+    background-color: #EEE5DE;
+}
+
+input, textarea {
+    width: 400px;
+    border: 1px solid #999;
+}
+
+textarea {
+    vertical-align: top;
+    height: 5em;
+}
+
+.error {
+    color:#990000;
+}
+
+.lang {
+    background-color: dimgrey;
+    color: white;
+    width: 30px
+}
+
+.common_link {
+    color: #800000;
+}
+
+.button {
+    width: 150px;
+}
+
+.button_product_update {
+    width: 300px;
+}
+
+.pic {
+    float: left;
+    margin: 15px 15px 15px 15px ;
+    width: 350px;
+    height: 350px;
+}
+
+.raw {
+    font-weight: bolder;
+}
+
+.change_data {
+    width: 200px;
+}
+
+nav {
+    float: right;
+}
+
+input {
+    margin-bottom: 20px;
+}
+
+
+.field {
+    font-weight: bold;
+}
+
+
+.menu {
+    padding: 0;
+    margin: 0;
+    display: block;
+}
+
+.menu li {
+    float: left;
+    display: block;
+    margin-right: 41px;
+}
+
+.menu a {
+    text-decoration: none;
+    text-transform: uppercase;
+    color: #990000;
+    font-size: 14px;
+}

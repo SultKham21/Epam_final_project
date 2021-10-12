@@ -1,0 +1,35 @@
+body {
+    font-family: Constantia, sans-serif;
+    background: url("../img/back_main.jpeg")no-repeat center center fixed;
+    background-size: cover;
+    color: #fff;
+}
+
+h1 {
+    font-size: 60px;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+input {
+    margin-bottom: 10px;
+}
+
+.error {
+    color: #ffffff;
+}
+
+.title_first {
+    font-size: 40px;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+a {
+    text-decoration: none;
+    font-size: 14px;
+    color: #fff;
+}
+
+
+

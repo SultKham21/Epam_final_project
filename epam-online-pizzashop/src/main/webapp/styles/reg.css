@@ -1,0 +1,61 @@
+body {
+    background: url("../img/back_reg.jpeg") no-repeat center center fixed;
+    background-size: cover;
+}
+
+h1 {
+    font-size: 30px;
+    color: #A52A2A;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.error {
+   color: #990000;
+}
+
+.reg {
+    width: 700px;
+    height: 700px;
+    background: #CDAA7D;
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    margin: auto;
+    border-radius: 3px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.field {
+    font-weight: bold;
+}
+
+input {
+    margin-bottom: 20px;
+}
+
+p {
+    margin-bottom: 5px;
+    margin-top: 5px;
+    text-align: center;
+}
+
+a {
+    color: #fff;
+    text-decoration: none;
+}
+
+.static_text {
+    font-size: 22px;
+    text-align: justify;
+    color: #ffffff;
+    margin: 10px 200px;
+}
+
+.static_header {
+    color: #CDAA7D;
+}
