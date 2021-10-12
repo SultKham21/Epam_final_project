@@ -27,8 +27,7 @@
 <label class="product"><fmt:message key="label.product_name"/></label>
 <div>${sessionScope.product.name}</div>
 <br>
-<label class="product"><fmt:message key="label.product_non_proprietary_name"/></label>
-<div>${sessionScope.product.nonProprietaryName}</div>
+
 <br>
 <label class="product"><fmt:message key="label.product_waight"/></label>
 <div>${sessionScope.product.dose}</div>
