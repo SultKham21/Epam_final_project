@@ -22,7 +22,7 @@ The application has two locales: RU and EN.
 1. choose restaurant<br>
 2. view all unexecuted orders in selected restaurant<br>
 3. approves the order if all the data is correct<br>
-4. can delet order if some items wrong<br>
+4. can delete order if some items wrong<br>
 
 ### Capabilities of **administrator** are:
 
